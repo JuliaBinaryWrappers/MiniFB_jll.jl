@@ -2,7 +2,6 @@
 export libminifb
 
 using Xorg_libX11_jll
-using Xorg_xorgproto_jll
 ## Global variables
 PATH = ""
 LIBPATH = ""
@@ -33,13 +32,12 @@ function __init__()
     # This either calls `@artifact_str()`, or returns a constant string if we're overridden.
     global artifact_dir = find_artifact_dir()
 
-    # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
     # Initialize PATH and LIBPATH environment variable listings
     # From the list of our dependencies, generate a tuple of all the PATH and LIBPATH lists,
     # then append them to our own.
-    foreach(p -> append!(PATH_list, p), (Xorg_libX11_jll.PATH_list, Xorg_xorgproto_jll.PATH_list,))
-    foreach(p -> append!(LIBPATH_list, p), (Xorg_libX11_jll.LIBPATH_list, Xorg_xorgproto_jll.LIBPATH_list,))
+    foreach(p -> append!(PATH_list, p), (Xorg_libX11_jll.PATH_list,))
+    foreach(p -> append!(LIBPATH_list, p), (Xorg_libX11_jll.LIBPATH_list,))
 
     global libminifb_path = normpath(joinpath(artifact_dir, libminifb_splitpath...))
 
