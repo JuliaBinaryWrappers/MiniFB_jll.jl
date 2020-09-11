@@ -1,6 +1,6 @@
 name = "MiniFB_jll"
 uuid = "b93afbca-07d8-5443-9979-bb4221978155"
-version = "0.1.1+0"
+version = "0.1.1+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
