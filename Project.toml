@@ -1,6 +1,6 @@
 name = "MiniFB_jll"
 uuid = "b93afbca-07d8-5443-9979-bb4221978155"
-version = "0.2.0+0"
+version = "0.2.1+0"
 
 [deps]
 Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"

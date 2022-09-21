@@ -1,115 +1,115 @@
 [[MiniFB]]
 arch = "aarch64"
-git-tree-sha1 = "07f7184f0300a7f6d8fc04b7b91ba6088b8ca2b8"
+git-tree-sha1 = "7665f336a0852116a88ef49e7d6354a2103d24a7"
 os = "macos"
 
     [[MiniFB.download]]
-    sha256 = "d7ac4f8bd53cce6f72b6e505e5454e76b17c0e2884bcc1355c4cb402b9c28949"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "e156ccdd9e1c5422792ef742432367cd75e4c6deadd8dac895c58eec7d73b022"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.aarch64-apple-darwin.tar.gz"
 [[MiniFB]]
 arch = "aarch64"
-git-tree-sha1 = "757e09a98c127e141e0a0a1d2f81824e870a57d3"
+git-tree-sha1 = "044579223a00a2f2aed27aa2e30d94cfcfd01e1e"
 libc = "glibc"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "c143bed75a27159e8b481a7b49e12700b127c2afbc19acd44b9f9306439daabf"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "3a585c4f9ec6bebc3e902661058eeebbe586f1e18ddc509008cd18d4dabe7881"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.aarch64-linux-gnu.tar.gz"
 [[MiniFB]]
 arch = "aarch64"
-git-tree-sha1 = "3027bdcf5b9b1064bb1f609b0fc135991dd3cda4"
+git-tree-sha1 = "51582188b335e3031d70b6b1d638a73390fe2106"
 libc = "musl"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "f8d31d984519e1b6915ba16cde6b2c5b0189a8320f2f625169fca8068428c5b7"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.aarch64-linux-musl.tar.gz"
+    sha256 = "a2dba34fc995417d55d2f8e44129fdcc243842a885a724f71bc4aa032bfcef96"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.aarch64-linux-musl.tar.gz"
 [[MiniFB]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0f3d9f82bf03eb1fc794ced15cd0345225c269ac"
+git-tree-sha1 = "d058c62cc61c176c10ff2dda2c7660dec09457e2"
 libc = "glibc"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "5b3bce348f9c98f70b82bb9d34480995fe4a485912535dbbbfa99772e8cd5c59"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9e351e1258279f569061bb172f315b108a750eb47833bd1a862a65023320f0ad"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.armv7l-linux-gnueabihf.tar.gz"
 [[MiniFB]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c412771700bc579f452e8063e13d06fec7a06d79"
+git-tree-sha1 = "710a8b47528790034094ad9978812fa14359ce61"
 libc = "musl"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "ba4df2cfd566fb373f4797c65cdf7c5f1604b2787c95dd858a37b77c99af33e0"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "bfa1f5854487d0f99c623825da569fb8aaf454813fbc44ae51eed6402b8fd4dd"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.armv7l-linux-musleabihf.tar.gz"
 [[MiniFB]]
 arch = "i686"
-git-tree-sha1 = "6a446e0bfb8ff7c8a09ab2c0d3839a45bc1a8d44"
+git-tree-sha1 = "ba2a1d894552f53b63b0266306134edc77bb06f1"
 libc = "glibc"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "7100347940402bbed6895c80a5a4d57a2af5cfc525016bbd07c6c60bde21c7f8"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.i686-linux-gnu.tar.gz"
+    sha256 = "cb81a06dac8b248be0ec97d789db8bba87eeea60abef4f30c1e9c2dec2f62310"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.i686-linux-gnu.tar.gz"
 [[MiniFB]]
 arch = "i686"
-git-tree-sha1 = "dea7828060e3ded97ba76f8607eea7d43a564bfd"
+git-tree-sha1 = "e64c08113ff75fa56169f42339e52eea5c2aff78"
 libc = "musl"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "c6a67f41a48a0af86a25575074057f66fb7bc3c4c08a11b85c9ce121c032a5e0"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.i686-linux-musl.tar.gz"
+    sha256 = "7646eb69b816003facf2f46f6f9f22fa56be595d60b93784485b619ba57a0fa7"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.i686-linux-musl.tar.gz"
 [[MiniFB]]
 arch = "i686"
-git-tree-sha1 = "67408a5579fb02461404ba8c0bfeaf2e3c76643c"
+git-tree-sha1 = "08d80041cf3f15ff0431878d48be35b0dc434133"
 os = "windows"
 
     [[MiniFB.download]]
-    sha256 = "c287f7abc877fbb574630b8f48e10f3e34c8acb82e33e41a52bc1704b87573f5"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.i686-w64-mingw32.tar.gz"
+    sha256 = "f907bf0dd0a35a04eb4631d9f6aee03ddaeea4647d54eef9a283f031c0c215fd"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.i686-w64-mingw32.tar.gz"
 [[MiniFB]]
 arch = "powerpc64le"
-git-tree-sha1 = "e53a5aba44fbea5e9d6b56a680d4474faf0ba33b"
+git-tree-sha1 = "e5e78148cf1386cbd88dcbbd6958710b7f3b7030"
 libc = "glibc"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "d26ebe14181ce75ba33293ea2390a49f66e45a2346fd92421e09e9f4704e30c3"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "7166504766ccc48a27614d328802bfeb48d8c35bf8b9d57071d270b6da097e3f"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.powerpc64le-linux-gnu.tar.gz"
 [[MiniFB]]
 arch = "x86_64"
-git-tree-sha1 = "9524d8e784811c69237ad1276352b96da896ad28"
+git-tree-sha1 = "bd1ecfa629e4e99961f87e24da7d0213742cebea"
 os = "macos"
 
     [[MiniFB.download]]
-    sha256 = "b649e170c2bcda499b64efc235e30f7c0e7b2c7480affe8b3f79f2301510547d"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "c3d43dbe927b996939c6aff3ef94d7740d9a9491fc8d90787b76f284e4573e95"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.x86_64-apple-darwin.tar.gz"
 [[MiniFB]]
 arch = "x86_64"
-git-tree-sha1 = "8511ddadd9b260988a122c0096fa51330ad9b805"
+git-tree-sha1 = "3ff67dfb3bea8bd2656cd50107de8b91d6838a04"
 libc = "glibc"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "ef54624c65c7f0e83478ad1cf2f4c7876b8292388ed74c5dd80572a02305b388"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "849d960f8ae169a00d715a87c6cd821e7157bd857039572fc9e73228d36c1144"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.x86_64-linux-gnu.tar.gz"
 [[MiniFB]]
 arch = "x86_64"
-git-tree-sha1 = "4c9bcb7982474ac7b1b6071eada61f4db6f869b3"
+git-tree-sha1 = "7121ac5a16dd65e16c02ce22c2e713ff08def81b"
 libc = "musl"
 os = "linux"
 
     [[MiniFB.download]]
-    sha256 = "d71e57dd0b9fbd50a8449456ed0659ff011b3397291b8fccb48323b6c973925f"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "60ca490fffd8ff541f97d27179266ddf9900098862c716dca23dbe3069d41baf"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.x86_64-linux-musl.tar.gz"
 [[MiniFB]]
 arch = "x86_64"
-git-tree-sha1 = "336d4c10ff355af29f20137ddaff6ee12884d8f9"
+git-tree-sha1 = "44ac01d3272b7561a6f0f041a4adadc5a4347652"
 os = "windows"
 
     [[MiniFB.download]]
-    sha256 = "5c6cfdeaea633cc18e704bb02b731129d75ff8348a559ef0bd4309214c9346fb"
-    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.0+0/MiniFB.v0.2.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "e3c2925b583de8fe4271cc8a77ee965c819cf1bd29d74952afa339d3787053be"
+    url = "https://github.com/JuliaBinaryWrappers/MiniFB_jll.jl/releases/download/MiniFB-v0.2.1+0/MiniFB.v0.2.1.x86_64-w64-mingw32.tar.gz"
